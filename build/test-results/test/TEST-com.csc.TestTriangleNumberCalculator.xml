@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.TestTriangleNumberCalculator" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-21T02:58:51" hostname="WIN-VE0J3PDRJ34" time="0.046">
+<testsuite name="com.csc.TestTriangleNumberCalculator" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-02T23:27:28" hostname="WIN-VE0J3PDRJ34" time="0.024">
   <properties/>
-  <testcase name="testAdd()" classname="com.csc.TestTriangleNumberCalculator" time="0.04"/>
-  <testcase name="testSubtract()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testValue()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testSequence()" classname="com.csc.TestTriangleNumberCalculator" time="0.024"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
